@@ -25,7 +25,7 @@ Clone the Repository: Start by cloning this repository to your local machine usi
 
 bash
 Copy code
-git clone https://github.com/yourusername/basic-html-school-website.git
+[git clone https://github.com/yourusername/basic-html-school-website.git](https://github.com/3725fahmid/school_website.git)
 Navigate to the Project Directory: Move into the project directory:
 
 bash
